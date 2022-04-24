@@ -4,6 +4,6 @@
 
 ## ☔下过雨
 
-<img src = "http://gchat.qpic.cn/gchatpic_new/0/0-0-FA4759F71F9EA565539022DFE369AF99/0?term=2" >
+<img src = "https://github.com/3418359665/3418359665/raw/main/GIF-220424_233856.gif" >
 
 
