@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @3418359665
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=3418359665&show_icons=true&hide_border=true&include_all_commits_disable=false&custom_title=二斤桃花酿做酒，万杯不及你温柔。&count_private=true">
+</a>
 
-<!---
-3418359665/3418359665 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## ☔下过雨
+
+<img src = "http://gchat.qpic.cn/gchatpic_new/0/0-0-72A16A6B0739120B9F6E76D7DC310B8B/0?term=2" >
