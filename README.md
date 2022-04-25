@@ -9,5 +9,8 @@
 ### 访问量
 
 ![](http://profile-counter.glitch.me/341195867/count.svg)
-### 历史 Star 数
-![](https://starchart.cc/341195867.svg)
+
+#### 随机图片
+<img src = "https://api.ixiaowai.cn/api/api.php" >
+
+
