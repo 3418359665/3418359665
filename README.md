@@ -9,8 +9,3 @@
 ### 访问量
 
 ![](http://profile-counter.glitch.me/341195867/count.svg)
-
-#### 随机图片
-<img src = "https://api.ixiaowai.cn/mcapi/mcapi.php" >
-
-
