@@ -4,6 +4,6 @@
 
 ## ☔下过雨
 
-<img src = "https://github.com/3418359665/3418359665/raw/main/%E5%A4%87%E4%BB%BD/IMG_20220401_124306_023.jpg" >
+<img src = "https://github.com/3418359665/3418359665/blob/main/%E5%A4%87%E4%BB%BD/GIF-220424_233856.gif" >
 
 
