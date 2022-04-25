@@ -11,6 +11,6 @@
 ![](http://profile-counter.glitch.me/341195867/count.svg)
 
 #### 随机图片
-<img src = "https://api.ixiaowai.cn/api/api.php" >
+<img src = "https://api.ixiaowai.cn/mcapi/mcapi.php" >
 
 
