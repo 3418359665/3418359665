@@ -9,6 +9,5 @@
 ### 访问量
 
 ![](http://profile-counter.glitch.me/341195867/count.svg)
-### 一言
-
-![](https://api.uixsj.cn/hitokoto/get?type=hitokoto&code=json)
+### 历史 Star 数
+![](https://starchart.cc/341195867.svg)
